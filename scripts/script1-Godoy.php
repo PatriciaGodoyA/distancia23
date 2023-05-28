@@ -3,7 +3,7 @@
  * Script que realiza operaciones matemáticas básicas, y realiza la comprobación de si un número es par
  * 
  * @author: Patricia Godoy Albaladejo
- * @version: 1.0
+ * @version: 2.0
  * @copyright Copyright (c) 2023, Patricia Godoy
  */
 

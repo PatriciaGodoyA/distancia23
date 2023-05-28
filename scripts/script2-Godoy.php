@@ -3,7 +3,7 @@
  * Script con una clase que realiza operaciones matemáticas básicas
  * 
  * @author: Patricia Godoy Albaladejo
- * @version: 1.0
+ * @version: 2.0
  */
 
 /**
